@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/extentreports-java-2.05.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/mail.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/FrameworkJar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/selenium-server-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/testng-6.10.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium&amp;webservices/sri/bin/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
